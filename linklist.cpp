@@ -1,7 +1,7 @@
 #include <iostream>
 #include "list/src/singleLinkList.h"
 #include "list/src/linkLoop.h"
-using namespace std;
+using namuespace std;
 
 int main(){
 	SLList *sl= new SLList();
