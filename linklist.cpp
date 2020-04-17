@@ -1,9 +1,9 @@
 #include <iostream>
 #include "list/src/singleLinkList.h"
 #include "list/src/linkLoop.h"
-using namuespace std;
+using namespace std;
 
-int mainx(){
+int main(){
 	SLList *sl= new SLList();
 	unsigned short choice =1,pos=1 ;
 	int data;
