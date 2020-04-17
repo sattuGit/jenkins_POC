@@ -3,7 +3,7 @@
 #include "list/src/linkLoop.h"
 using namuespace std;
 
-int main(){
+int mainx(){
 	SLList *sl= new SLList();
 	unsigned short choice =1,pos=1 ;
 	int data;
